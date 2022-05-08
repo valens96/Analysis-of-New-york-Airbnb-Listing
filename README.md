@@ -1,8 +1,7 @@
 # Analysis-of-New-york-Airbnb-Listing
 
 ## Objective
-You work as an analyst for a reputable real estate firm that is aiming to expand its real estate investment portfolio. New York City is one of the markets they are considering. They would like as much information as possible before entering the market. Our job would be to conduct the research and report back to senior management on whether New York City is a good market to invest in.
-
+You're an analyst for a prominent real estate firm looking to diversify its real estate investment portfolio. They are considering New York City as a potential market. Before entering the market, they want as much information as possible. Our role would be to perform the study and report back to senior management on whether New York City is a viable investment market.
 
 ## Key Questions
 1. What is most expensive Neighborhood?
